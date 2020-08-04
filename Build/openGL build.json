@@ -1,0 +1,17 @@
+{
+"companyName": "YD",
+"productName": "DashRunner",
+"productVersion": "0.5.01",
+"dataUrl": "openGL build.data.unityweb",
+"wasmCodeUrl": "openGL build.wasm.code.unityweb",
+"wasmFrameworkUrl": "openGL build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "openGL build.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.9f1"
+}
